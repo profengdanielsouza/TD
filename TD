@@ -243,6 +243,50 @@ https://live.tcm10.com.br/tcm10hd/stream.m3u8
 
 ################################################################################ Esportes
 
+#EXTINF: -1 tvg-id = "PREMIERE CLUBES" tvg-logo = "http://i.imgur.com/xmmiHls.png" group-title = "Esportes", Premiere Clubes
+http://212.224.98.208:2200/BR/Premiere_Clubes_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF: -1 tvg-id = "PREMIERE 1 HD" tvg-logo = "http://i.imgur.com/xmmiHls.png" group-title = "Esportes", Premiere Clubes 1 HD
+https: // edge-https: //edge-aws.aovivotv.xyz/hls/s: 78.47.27.206/premiereclubes_3f1522d0_472f9d3c85de89fd820546bffb432ef3af3a083f/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "PREMIERE 2" tvg-logo = "http://i.imgur.com/xmmiHls.png" group-title = "Esportes", Premiere 2
+http://212.224.98.208:2200/BR/Premiere_2_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF: -1 tvg-id = "PREMIERE 3" tvg-logo = "http://i.imgur.com/xmmiHls.png" group-title = "Esportes", Premiere 3
+http://212.224.98.208:2200/BR/Premiere_3_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF: -1 tvg-id = "PREMIERE 4" tvg-logo = "http://i.imgur.com/xmmiHls.png" group-title = "Esportes", Premiere 4
+http://212.224.98.208:2200/BR/Premiere_4_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF: -1 tvg-id = "PREMIERE 5" tvg-logo = "http://i.imgur.com/xmmiHls.png" group-title = "Esportes", Premiere 5
+http://212.224.98.208:2200/BR/Premiere_5_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF: -1 tvg-id = "PREMIERE 6" tvg-logo = "http://i.imgur.com/xmmiHls.png" group-title = "Esportes", Premiere 6
+http://212.224.98.208:2200/BR/Premiere_6_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF: -1 tvg-id = "PREMIERE 7" tvg-logo = "http://i.imgur.com/xmmiHls.png" group-title = "Esportes", Premiere 7
+http://212.224.98.208:2200/BR/Premiere_7_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF: -1 tvg-id = "PREMIERE 8" tvg-logo = "http://i.imgur.com/xmmiHls.png" group-title = "Esportes", Premiere 8
+http://212.224.98.208:2200/BR/Premiere_8_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
+#EXTINF: -1 tvg-id = "" tvg-logo = "http://i.imgur.com/1BG5rbs.png" group-title = "Esportes", Conmebol TV
+http://50.7.34.90:8090/live/CONMEBOL_TV1_HD?PEDROJUNIORTUTORIAIS
+
+#EXTINF: -1 tvg-id = "" tvg-logo = "http://i.imgur.com/1BG5rbs.png" group-title = "Esportes", Conmebol TV 2
+http://50.7.34.90:8090/live/CONMEBOL_TV2_HD?PEDROJUNIORTUTORIAIS
+
+#EXTINF: -1 tvg-id = "" tvg-logo = "http://i.imgur.com/ka06Cjw.png" group-title = "Esportes", TNT Sports
+http://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF: -1 tvg-id = "" tvg-logo = "http://i.imgur.com/ka06Cjw.png" group-title = "Esportes", TNT Sports HD
+http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF: -1 tvg-id = "" tvg-logo = "http://i.imgur.com/71sYepu.png" group-title = "Esportes", DAZN
+
+#EXTINF: -1 tvg-id = "BAND SPORTS" tvg-logo = "http://i.imgur.com/wuMZB2S.png" group-title = "Esportes", Band Sports
+http://212.224.98.210:2200/BR/Band_Sports_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
+
 #EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere Clubes
 http://edge-us1.lkstream.ga/PFC1_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
